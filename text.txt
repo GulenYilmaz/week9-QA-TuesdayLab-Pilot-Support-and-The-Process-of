@@ -1,0 +1,169 @@
+Take some time again to explore this site to understand it better.
+
+Now think back to the previous conversation, take some time to answer these questions:
+
+1.Was the customer justified with their complaints?  -->Yes
+
+2.Did the QA do a good job responding to the customer’s complaints?  -->Yes
+
+3.Would you address them in a different way? -->never give a promise but ask first the developer and callback agaoin the customer.
+
+4.What information would you need to adequately respond to their concerns? --> Which function would not working and what function does he or she need?
+
+
+Based on the conversation above, create a checklist of features that the customer would like the website to do.
+
+Try to imagine yourself as a customer in this situation, what features would you want this employee manager site to have?
+-employee salary
+-employee ssn
+-employee picture
+-employee lastname
+
+
+Now that you’ve thought about things from the customer perspective, let’s shift back into the QA mindset.
+
+
+
+
+
+
+------Project Summary
+In this project we are building a front end for an employee management system. It should run on any modern browser (post I.E. 8 and similar), and be fully functional, and reasonably styled. Chrome will be our recommended browser. The app can be accessed here
+
+Current Desired Functionality
+The application will load a simulated list of employees, and allow modifications to each. Clicking the employee from the list to the side will bring their file up in the editor. Your employee will consist of:
+
+ID
+Name
+Phone
+Title
+All fields except for ID are editable. When saving a change, it will persist as you access other records and navigate back to the desired employee. The save and cancel buttons will only be accessible when modifications have been made, and the cancel button will revert the employee’s file back to the most recently saved version.
+
+Future Functionality
+To be aware of, but not currently implemented
+
+Phone numbers will be validated 10 digit, area code included, US phone numbers.
+The Employee List will reside in a database and be accessed through API integration
+An Add Employee function will be implemented
+A search function to filter the employee list will be available, based on Job Title, Name, and/or ID
+An Email Address field will be added for each employee file
+All fields will be required for any entry/modification
+Disclosure
+This is not an ACTUAL business project - but a project plan to assist Quality Assurance Engineers in their training. Full documentation on the assignment requirements is available in JIRA.
+
+Contributions
+If you see a problem or a typo, please fork, make the necessary changes, and create a pull request so we can review your changes and merge them into the master repo and branch.
+
+Copyright
+© DevMountain LLC, 2018. Unauthorized use and/or duplication of this material without express and written permission from DevMountain, LLC is strictly prohibited. Excerpts and links may be used, provided that full and clear credit is given to DevMountain with appropriate and specific direction to the original content.
+
+-------
+
+
+
+
+
+
+
+
+
+
+Here’s some documentation for Employee Manager: https://devmountain-qa.github.io/employee-manager/1.0_README.html
+
+Let’s remember what the Process of QA is:
+
+Planning
+
+Testing
+
+Reporting
+
+Following Up
+
+
+
+
+
+
+Use the documentation above to create a document that answers these questions:
+
+What are you testing?
+
+How long will you test for?
+
+Are there pieces you aren’t going to test?
+
+How do you plan on testing?
+
+How do you know when you’re done testing?
+
+
+
+
+
+By answering these questions, you’re starting to create a plan for your testing, the first step of the Process of QA!
+
+Now you’ll want to use that plan and take the next 30 minutes to do some testing! Take a close look at each feature in the application! This is the next phase, the actual testing!
+
+Now based on your findings from running some tests, create a report with a list of all the issues/bug you found, but also include the positives! If you think the application is a good start, be sure to say that!
+
+And our last phase, following up. Take the next 30 minutes to write out a report to the customer from earlier in the lab. Include the issues you’ve found, and how you’d plan to address their questions and concerns.
+
+Push your work to your GitHub account so that your education team can review your work.
+
+
+
+Pilot Support and the Process of QA
+Now think back to the previous conversation, take some time to answer these questions:
+Was the customer justified with their complaints? Sure. The customer was certainly able to share their concerns. ( no one shared with the customer that this was not the final product)
+Did the QA do a good job responding to the customer’s complaints? Yes, they addressed each concern. However I do not think the QA was very personal, and they seemed more like they were trying to justice themself. They did not come to a joint conclusion at the end. 
+Would you address them in a different way? Yes, see the above answer.
+What information would you need to adequately respond to their concerns? We need the client’s wants and needs, paired along with requirements and achievable for the Developers. We also need to share where we currently are in the project. 
+Based on the conversation above, create a checklist of features that the customer would like the website to do.
+Checklist:
+Email field for the contact card
+Searchable to search the employee list
+To be able to log in and out as the user
+UI/Interface
+Try to imagine yourself as a customer in this situation, what features would you want this employee-manager site to have?
+Wants for the employee-manager site:
+Email field for the contact card
+Searchable to search the employee list
+To be able to log in and out as the user
+Secure database with employee-information
+UI/Interface
+Now that you’ve thought about things from the customer perspective, let’s shift back into the QA mindset.
+Here’s some documentation for Employee Manager: https://devmountain-qa.github.io/employee-manager/1.0_README.html
+Let’s remember what the Process of QA is:
+Planning
+Testing
+Reporting
+Following Up
+Use the documentation above to create a document that answers these questions:
+What are you testing? Were testing to make sure all information is available and sorted in one place. 
+How long will you test for? We will test until the project is completed. 
+Are there pieces you aren’t going to test? No, we will test each function.
+How do you plan on testing? We will add information to the manager’s list, and then see if it saves and sorts. If the information does not do so, then we will need to continue testing.
+How do you know when you’re done testing? Once everything works as requested. 
+By answering these questions, you’re starting to create a plan for your testing, the first step of the Process of QA!
+Now you’ll want to use that plan and take the next 30 minutes to do some testing! Take a close look at each feature in the application! This is the next phase, the actual testing!
+Now based on your findings from running some tests, create a report with a list of all the issues/bug you found, but also include the positives! If you think the application is a good start, be sure to say that!
+List of issues/bug’s 
+Currently unable to add to the list
+Missing Fields
+We do not have a place for Email to be input.
+Lack of communication and client does not know this was a prototype because we did not provide documentation. This could be bad for both the client and our developers it is certainly a QA issue. 
+
+List of positives:
+We have 
+ID
+Name
+Phone
+And Title
+And our last phase, following up. Take the next 30 minutes to write out a report to the customer from earlier in the lab. Include the issues you’ve found, and how you’d plan to address their questions and concerns.
+
+Letter to the customer:
+
+
+Push your work to your GitHub account so that your education team can review your work.
+
